@@ -1,6 +1,6 @@
 # 🎮 Number Guessing Game of DOOM!
 
-A hilarious and interactive number guessing game where you try to guess a random number between 1 and 20. But beware — the Death Angel is watching, and your IQ might be judged by the United Nations! 🤡
+A hilarious and interactive number guessing game where you try to guess a random number between 1 and 20. But beware — your IQ might be judged by the United Nations! 🤡
 
 ## 🎯 Features
 - Random number generation between 1 and 20
