@@ -9,7 +9,7 @@ A hilarious and interactive number guessing game where you try to guess a random
 - Detects clowns who type letters instead of numbers 🎪
 - Saves your game data (name, guess count) in a dictionary
 - Option to play again... if you dare
-- United Nations called — they said your IQ lowered the global average 📉
+- Guinness called — they approved you as (THE DUMBEST PERSON IN THE WORLD) 📉
 
 ## 🛠️ Tech Stack
 - Python 3.x
